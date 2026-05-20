@@ -1,0 +1,6 @@
+{
+  "name": "Flashcard Learning App",
+  "description": "Kategoriyalar, statistika progressi, sevimlilar, qidiruv va tungi rejimga ega modern hamda interaktiv flashcard-lar orqali o'rganish platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
